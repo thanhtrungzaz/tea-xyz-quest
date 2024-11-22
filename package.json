@@ -1,12 +1,12 @@
 {
-  "name": "@thanhtrungzzzz/tea-xyz-quest",
-  "version": "1.0.0",
+  "name": "@buitrung/tea-xyz-quest",
+  "version": "1.0.1",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "@thanhtrungzzzz",
+  "author": "@buitrung",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thanhtrungzaz/tea-xyz-quest.git"
+    "url": "https://github.com/thanhtrungzaz/tea-xyz-quest.git"
   },
   "license": "ISC"
 }
